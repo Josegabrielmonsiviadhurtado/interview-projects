@@ -1,0 +1,4 @@
+# Customer Segmentation
+
+## Status
+📋 Planned
