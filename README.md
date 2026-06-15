@@ -4,6 +4,7 @@ Portfolio projects developed for Data Analyst and Data Science positions.
 
 ## Tools
 - Python
+- PostgreSQL
 - SQL
 - Power BI
 - Tableau
